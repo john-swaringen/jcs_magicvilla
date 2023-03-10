@@ -1513,6 +1513,7 @@
       "Microsoft.AspNetCore.Mvc.NewtonsoftJson >= 7.0.3",
       "Microsoft.AspNetCore.OpenApi >= 7.0.3",
       "Serilog.AspNetCore >= 6.1.0",
+      "Serilog.Sinks.File >= 5.0.0",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
   },
@@ -1576,6 +1577,10 @@
           "Serilog.AspNetCore": {
             "target": "Package",
             "version": "[6.1.0, )"
+          },
+          "Serilog.Sinks.File": {
+            "target": "Package",
+            "version": "[5.0.0, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",
