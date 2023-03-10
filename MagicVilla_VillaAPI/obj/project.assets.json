@@ -704,11 +704,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jswaringen\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj",
+      "projectUniqueName": "C:\\Users\\jswaringen\\source\\repos\\jcs_magicvilla\\MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj",
       "projectName": "MagicVilla_VillaAPI",
-      "projectPath": "C:\\Users\\jswaringen\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj",
+      "projectPath": "C:\\Users\\jswaringen\\source\\repos\\jcs_magicvilla\\MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj",
       "packagesPath": "C:\\Users\\jswaringen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jswaringen\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\obj\\",
+      "outputPath": "C:\\Users\\jswaringen\\source\\repos\\jcs_magicvilla\\MagicVilla_VillaAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
