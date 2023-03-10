@@ -72,13 +72,3 @@ C:\Users\jswaringen\source\repos\jcs_magicvilla\MagicVilla_VillaAPI\obj\Debug\ne
 C:\Users\jswaringen\source\repos\jcs_magicvilla\MagicVilla_VillaAPI\obj\Debug\net7.0\MagicVilla_VillaAPI.pdb
 C:\Users\jswaringen\source\repos\jcs_magicvilla\MagicVilla_VillaAPI\obj\Debug\net7.0\MagicVilla_VillaAPI.genruntimeconfig.cache
 C:\Users\jswaringen\source\repos\jcs_magicvilla\MagicVilla_VillaAPI\obj\Debug\net7.0\ref\MagicVilla_VillaAPI.dll
-C:\Users\jswaringen\source\repos\jcs_magicvilla\MagicVilla_VillaAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\jswaringen\source\repos\jcs_magicvilla\MagicVilla_VillaAPI\bin\Debug\net7.0\Serilog.dll
-C:\Users\jswaringen\source\repos\jcs_magicvilla\MagicVilla_VillaAPI\bin\Debug\net7.0\Serilog.AspNetCore.dll
-C:\Users\jswaringen\source\repos\jcs_magicvilla\MagicVilla_VillaAPI\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
-C:\Users\jswaringen\source\repos\jcs_magicvilla\MagicVilla_VillaAPI\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
-C:\Users\jswaringen\source\repos\jcs_magicvilla\MagicVilla_VillaAPI\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
-C:\Users\jswaringen\source\repos\jcs_magicvilla\MagicVilla_VillaAPI\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
-C:\Users\jswaringen\source\repos\jcs_magicvilla\MagicVilla_VillaAPI\bin\Debug\net7.0\Serilog.Sinks.Console.dll
-C:\Users\jswaringen\source\repos\jcs_magicvilla\MagicVilla_VillaAPI\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
-C:\Users\jswaringen\source\repos\jcs_magicvilla\MagicVilla_VillaAPI\bin\Debug\net7.0\Serilog.Sinks.File.dll
